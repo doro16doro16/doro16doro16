@@ -1,14 +1,13 @@
-### Good Day! 👋
 
 > ### Web is "Drawing"
 
+<br/>
 I'm Frontend Developer, my interests is TypeScript, JavaScript, React, Next.js.
+
 
 - 🌱 I’m currently learning OOP, Optimistic update, Web Rendering method(SSR, SSG, ISR, CSR).
 - :rose: Sometimes Blogging -> https://velog.io/@doro16
 - 💬 If you're curious about me, please contact me by email. -> doro16doro16@gmail.com
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -22,8 +21,10 @@ I'm Frontend Developer, my interests is TypeScript, JavaScript, React, Next.js.
 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doro16doro16&show_icons=true&locale=en&layout=compact" alt="doro16doro16" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=doro16doro16&show_icons=true&locale=en&layout=compact" alt="doro16doro16" /></p>  
+<br/><br/><br/><br/><br/><br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=doro16doro16&show_icons=true&locale=en" alt="doro16doro16" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=doro16doro16&show_icons=true&locale=en" alt="doro16doro16" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=doro16doro16&" alt="doro16doro16" /></p>
+<br/><br/><br/><br/><br/><br/><br/>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=doro16doro16&" alt="doro16doro16" /></p>
